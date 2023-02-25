@@ -1,4 +1,5 @@
 # Next Tech Lab
+***
 
 Next Tech Lab is a mobile application exclusively for members of Next Tech Lab, a community of tech enthusiasts. The app serves as a platform for general communication, discussion, and more. It includes features such as a general chat, upcoming and past hackathons, upcoming and past events, a doubts section, and a list of recent internship opportunities.
 
