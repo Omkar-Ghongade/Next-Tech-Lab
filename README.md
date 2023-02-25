@@ -4,6 +4,7 @@
 Next Tech Lab is a mobile application exclusively for members of Next Tech Lab, a community of tech enthusiasts. The app serves as a platform for general communication, discussion, and more. It includes features such as a general chat, upcoming and past hackathons, upcoming and past events, a doubts section, and a list of recent internship opportunities.
 
 ## Main Features 
+***
 | Feature | Description |
 | --- | --- |
 | General Chat | This feature allows for general conversation related to the lab. |
@@ -13,11 +14,13 @@ Next Tech Lab is a mobile application exclusively for members of Next Tech Lab, 
 | Internships | This feature lists recent internship opportunities for students to apply. |
 
 ## Challenges we Ran Into
+***
 - During development, the team faced challenges in integrating the frontend and backend. 
 - Sourcing data from external websites such as LinkedIn, MLH, and Devfolio was tedious task due to the lack of pre-existing API's.
 - We also faced issues with the machine learning model which was giving some testing issues.
 
 ## Tech Stack
+***
 - Figma
 - Flutter
 - Node.js
@@ -28,12 +31,14 @@ Next Tech Lab is a mobile application exclusively for members of Next Tech Lab, 
 - Flutterflow
 
 ## Contributions
+***
 - Omkar Ghongade : Flutter Development
 - Pavan Sai : Designing
 - Krish Srivastava : Backend Development
 - Vyshnavi Gayam : Machine Learning
 
 ## Screenshots
+***
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88375748/221326319-a245903a-e4cb-4881-a698-c288ded4a0f8.png" alt="Image" style="display:block; margin:auto;">
