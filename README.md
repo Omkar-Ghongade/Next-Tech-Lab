@@ -11,6 +11,11 @@ A Mobile Application Exclusively for members of Next Tech Lab which will be used
 | Doubts | This feature of the Application will be the place where the doubts of the students will be solved and the person who solves the doubt will be given some points as a reward by the person who asked the doubt. |
 | Internships | This feature of the Application will list all the recent Internship opportunities which they can apply. |
 
+## Challenges we Ran Into
+- We faced difficulties in Integration of Frontend & Backend, i.e. Flutter & Node.js
+- We don't have any API which will get us all the details of the Hackathons & Internships from various websites like Linekdin, MLH, Devfolio,etc.
+- We also faces issues with the machine learning model which was giving some testing issues.
+
 ## Tech Stack
 - Figma
 - Flutter
