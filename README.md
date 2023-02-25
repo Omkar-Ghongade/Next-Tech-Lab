@@ -1,20 +1,20 @@
 # Next Tech Lab
 
-A Mobile Application Exclusively for members of Next Tech Lab which will be used for General Communication, Discussion and many more.
+Next Tech Lab is a mobile application exclusively for members of Next Tech Lab, a community of tech enthusiasts. The app serves as a platform for general communication, discussion, and more. It includes features such as a general chat, upcoming and past hackathons, upcoming and past events, a doubts section, and a list of recent internship opportunities.
 
 ## Main Features 
 | Feature | Description |
 | --- | --- |
-| General Chat | This feature of the Application will be used for General Conversation related to Lab |
-| Hackathons | This feature of the Application will list all the Upcoming and the Past Hackathons. It will also have the registration links, list of those people who are interested in participating in a Hackathon. You can also view the top & winning projects of the past Hackathons. |
-| Events | This feature of the Application will list all the upcoming & past events of the lab. Like 9Hacks notification, Check In notifications, etc. |
-| Doubts | This feature of the Application will be the place where the doubts of the students will be solved and the person who solves the doubt will be given some points as a reward by the person who asked the doubt. |
-| Internships | This feature of the Application will list all the recent Internship opportunities which they can apply. |
+| General Chat | This feature allows for general conversation related to the lab. |
+| Hackathons | This feature lists all upcoming and past hackathons, provides registration links, lists those interested in participating, and displays the top and winning projects from past hackathons. |
+| Events | This feature lists all upcoming and past events of the lab, including notifications for events such as 9Hacks and Check-In. |
+| Doubts | This feature allows students to post their doubts, with rewards given to those who solve them. |
+| Internships | This feature lists recent internship opportunities for students to apply. |
 
 ## Challenges we Ran Into
-- We faced difficulties in Integration of Frontend & Backend, i.e. Flutter & Node.js
-- We don't have any API which will get us all the details of the Hackathons & Internships from various websites like Linekdin, MLH, Devfolio,etc.
-- We also faces issues with the machine learning model which was giving some testing issues.
+- During development, the team faced challenges in integrating the frontend and backend. 
+- Sourcing data from external websites such as LinkedIn, MLH, and Devfolio was tedious task due to the lack of pre-existing API's.
+- We also faced issues with the machine learning model which was giving some testing issues.
 
 ## Tech Stack
 - Figma
