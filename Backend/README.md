@@ -21,7 +21,6 @@ Then, navigate to the Backend directory and install the project's dependencies:
 ```
 cd Backend
 npm install
-
 ```
 ## Running the Server
 
@@ -29,7 +28,6 @@ To run the server, use the following command:
 
 ```
 npm start
-
 ```
 
 This will start the server and listen for incoming requests on port 3000.
